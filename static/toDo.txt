@@ -1,0 +1,4 @@
+#RAYTRACING LOPPUUN
+#local space pelaajalle?
+#Score
+#poista luodit jossain vaiheessa
